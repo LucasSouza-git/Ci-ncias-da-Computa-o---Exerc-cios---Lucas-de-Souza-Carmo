@@ -4,11 +4,13 @@ Repositório acadêmico contendo exercícios, atividades práticas e projetos de
 ## Organização
 
 Os exercícios estão organizados por aula:
-Diciplina1:
+
+ Diciplina1:
 - `aula-01/` — Exercícios da aula 01
 - `aula-02/` — Exercícios da aula 02
 - `aula-03/` — Exercícios da aula 03
 - `aula-04/` — Exercícios da aula 04
+
 Diciplina2:
 - `aula-01/` — Exercícios da aula 01
 - `aula-02/` — Exercícios da aula 02
