@@ -132,7 +132,7 @@ Ajustáveis no topo do arquivo `rede_neural_iris.py`:
 
 ---
 
-## 📝 Decisões de implementação
+## Decisões de implementação
 
 - **Padronização sem vazamento de dados:** o `StandardScaler` é ajustado apenas no conjunto de treino e depois aplicado ao teste.
 - **Divisão estratificada:** mantém a proporção das 3 classes em treino e teste.
