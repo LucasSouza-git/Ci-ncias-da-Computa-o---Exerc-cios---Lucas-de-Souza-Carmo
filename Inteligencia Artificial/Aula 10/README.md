@@ -1,4 +1,4 @@
-#Rede Neural do Zero — Classificação do Dataset Iris
+# Rede Neural do Zero — Classificação do Dataset Iris
 
 Implementação de uma **Rede Neural Artificial com uma camada escondida**, construída do zero com **NumPy**, para classificar as espécies de flores do conjunto de dados **Iris**.
 
@@ -7,7 +7,7 @@ Implementação de uma **Rede Neural Artificial com uma camada escondida**, cons
 
 ---
 
-##Sobre o projeto
+## Sobre o projeto
 
 O **Scikit-Learn** é usado *estritamente* para carregar e preparar os dados. Toda a rede neural (forward pass, função de perda, backpropagation e gradiente descendente) é implementada manualmente com **NumPy**.
 
