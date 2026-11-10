@@ -1,4 +1,4 @@
-# 🌸 Rede Neural do Zero — Classificação do Dataset Iris
+#Rede Neural do Zero — Classificação do Dataset Iris
 
 Implementação de uma **Rede Neural Artificial com uma camada escondida**, construída do zero com **NumPy**, para classificar as espécies de flores do conjunto de dados **Iris**.
 
@@ -7,7 +7,7 @@ Implementação de uma **Rede Neural Artificial com uma camada escondida**, cons
 
 ---
 
-## 📋 Sobre o projeto
+##Sobre o projeto
 
 O **Scikit-Learn** é usado *estritamente* para carregar e preparar os dados. Toda a rede neural (forward pass, função de perda, backpropagation e gradiente descendente) é implementada manualmente com **NumPy**.
 
@@ -43,7 +43,7 @@ Entrada (4) ──W1,b1──► ReLU (8) ──W2,b2──► Softmax (3)
 
 ---
 
-## 🧮 Fundamentos matemáticos
+## Fundamentos matemáticos
 
 **Forward pass**
 
@@ -75,7 +75,7 @@ dW1 = Xᵀ · dZ1           db1 = Σ dZ1
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ### Pré-requisitos
 - Python 3.9 ou superior
@@ -101,7 +101,7 @@ python rede_neural_iris.py
 
 ---
 
-## 📊 Exemplo de saída
+## Exemplo de saída
 
 ```
 Treino: 120 amostras | Teste: 30 amostras
@@ -119,7 +119,7 @@ Acurácia no teste: 96.67%
 
 ---
 
-## ⚙️ Hiperparâmetros
+## Hiperparâmetros
 
 Ajustáveis no topo do arquivo `rede_neural_iris.py`:
 
@@ -141,7 +141,7 @@ Ajustáveis no topo do arquivo `rede_neural_iris.py`:
 
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 rede-neural-iris/
@@ -151,7 +151,7 @@ rede-neural-iris/
 └── README.md
 ```
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - [Python](https://www.python.org/)
 - [NumPy](https://numpy.org/)
@@ -159,7 +159,7 @@ rede-neural-iris/
 
 ---
 
-## 👤 Autor
+## Autor
 
-**Nome:** _seu nome aqui_  
+**Nome:** Lucas de Souza Carmo
 **Curso:** Ciência da Computação — UNIPAC Barbacena
